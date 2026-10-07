@@ -368,7 +368,7 @@ int main() {
 }
 ```
 ### Output Unguided 1 :
-
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK2/Unguided/Unguided-1/Screenshot%202026-10-07%20122746.png
 
 penjelasan unguided 1 :
 #### Program mengimplementasikan Array 2D untuk menghitung matriks 3x3. Operasi penjumlahan dan pengurangan dihitung elemen per elemen, sedangkan perkalian matriks menggunakan tiga tingkatan perulangan (nested loop) untuk mengalikan baris matriks A dengan kolom matriks B.
@@ -435,7 +435,9 @@ void tukar(int &x, int &y, int &z) {
 }
 ```
 ### Output Unguided 2 :
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK2/Unguided/Unguided-2/Screenshot%202026-10-07%20122818.png
 
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK2/Unguided/Unguided-2/Screenshot%202026-10-07%20122906.png
 
 penjelasan unguided 2 :
 #### Program ini melakukan penukaran posisi nilai 3 variabel (a, b, c) secara berputar menggunakan fungsi dengan perantara pointer (*) dan reference (&), sehingga nilai pada variabel di main() langsung berubah.
@@ -528,7 +530,9 @@ int main() {
 }
 ```
 ### Output Unguided 3 :
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK2/Unguided/Unguided-3/Screenshot%202026-10-07%20123152.png
 
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK2/Unguided/Unguided-3/Screenshot%202026-10-07%20123208.png
 
 penjelasan unguided 3 :
 #### Program ini mengelola data array 1 dimensi menggunakan mwnu switch-case. Perhitungan nilai minimum dan maksimum dikembalikan melalui fungsi cariMinimum() dan cariMaksimum(), sedangkan pencetakan array dan perhitungan rata-rata dilakukan melalui prosedur.
