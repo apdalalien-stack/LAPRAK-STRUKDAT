@@ -200,7 +200,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-https://github.com/arkanelhadi-cyber/Laprak-Struktur-Data/blob/main/WEEK%203/UNGUIDED/No%201/Screenshot%202026-10-12%20141009.png
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK3/Unguded/Unguided-1/Screenshot%202026-10-14%20105017.png
 
 ### penjelasan unguided 1 
 Program ini berfungsi untuk mengelola data nilai mahasiswa, mulai dari menginput data mahasiswa, menghitung nilai akhir berdasarkan bobot UTS, UAS, dan tugas, hingga menampilkan daftar mahasiswa beserta nilai akhirnya.
@@ -259,7 +259,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-https://github.com/arkanelhadi-cyber/Laprak-Struktur-Data/blob/main/WEEK%203/UNGUIDED/No%202/Screenshot%202026-10-12%20141300.png
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK3/Unguded/Unguided-3/Screenshot%202026-10-14%20105603.png
 
 penjelasan unguided 2
 Program ini berfungsi untuk membuat dan menampilkan data pelajaran menggunakan tipe data bentukan `struct`, dengan menyimpan nama mata pelajaran dan kode pelajaran melalui fungsi `create_pelajaran()` serta menampilkannya menggunakan fungsi `tampil_pelajaran()`.
