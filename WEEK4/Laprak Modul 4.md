@@ -501,7 +501,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK4/Unguided/Screenshot%202026-10-21%20222534.png
 
 penjelasan unguided 1 :
 Program membuat list kosong, lalu menambahkan lima angka menggunakan `insertFirst`. Karena setiap angka dimasukkan di awal, urutan tampilannya menjadi terbalik dari urutan input, yaitu `9 12 8 0 2`.
@@ -551,7 +551,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK4/Unguided/Screenshot%202026-10-21%20222959.png
 
 
 penjelasan unguided 2 :
