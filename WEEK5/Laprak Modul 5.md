@@ -555,7 +555,7 @@ int main()
 ### Output Unguided 1 :
 
 ##### Output 1
-<img width="902" height="94" alt="Tangkapan Layar 2026-10-27 pukul 22 58 47" src="https://github.com/user-attachments/assets/edc2ee3d-252b-41f8-8678-66d50ebcc17a" />
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK5/Unguided/Unguided-1/Screenshot%202026-10-28%20164624.png
 
 penjelasan unguided 1 : 
 Program Unguided 1 membuat singly linked list, lalu memasukkan nilai 2, 0, 8, 12, dan 9 satu per satu menggunakan `insertFirst`. Karena setiap nilai ditambahkan ke bagian awal list, urutan tampilannya menjadi terbalik, yaitu `9 12 8 0 2`.
@@ -682,7 +682,7 @@ int main()
 ### Output Unguided 2 :
 
 ##### Output 1
-<img width="907" height="78" alt="Tangkapan Layar 2026-10-27 pukul 23 14 24" src="https://github.com/user-attachments/assets/476e9977-38d4-4509-aace-f6c97cfeec81" />
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK5/Unguided/Unguided-2/Screenshot%202026-10-28%20164941.png
 
 penjelasan unguided 2 :
 Program Unguided 2 membentuk singly linked list dengan nilai 2, 0, 8, 12, dan 9, lalu mencari nilai 8 menggunakan fungsi `findElm`. Fungsi menelusuri node dari awal hingga nilai ditemukan atau mencapai akhir list. Karena nilai 8 ditemukan, program menampilkan pesan `8 ditemukan dalam list`.
@@ -807,7 +807,7 @@ int main()
 ### Output Unguided 3 :
 
 ##### Output 1
-<img width="903" height="105" alt="Tangkapan Layar 2026-10-27 pukul 23 26 34" src="https://github.com/user-attachments/assets/cb264b1b-19d4-433a-a408-2188e27db991" />
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK5/Unguided/Unguided-3/Screenshot%202026-10-28%20165227.png
 
 penjelasan unguided 3 :
 Program Unguided 3 membuat singly linked list yang berisi nilai 2, 0, 8, 12, dan 9. Fungsi `sumInfo` menelusuri setiap node dan menjumlahkan nilainya, kemudian hasilnya ditampilkan. Total seluruh nilai adalah 31.
