@@ -447,7 +447,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Output Unguided 1](<https://github.com/BayusatrioSuryanovicIbrahim/PRAKTIKUM-STRUKTUR-DATA/blob/main/MODUL%208/UNGUIDED/UNGUIDED%201/Tangkapan%20Layar%202026-11-24%20pukul%2001.19.20.png>)
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK9/Unguided/Unguided-1/Screenshot%202026-11-25%20191538.png
 
 #### penjelasan unguided 1 
 Menggunakan array berkapasitas lima dengan head tetap di awal dan tail bergerak. Saat dequeue, elemen tersisa digeser ke depan agar ruang kosong dapat digunakan kembali. Program memasukkan 5, 2, dan 7, lalu menghapus 5; setelah 4 ditambahkan, dua dequeue berikutnya menyisakan 4.
@@ -578,7 +578,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Output Unguided 2](<https://github.com/BayusatrioSuryanovicIbrahim/PRAKTIKUM-STRUKTUR-DATA/blob/main/MODUL%208/UNGUIDED/UNGUIDED%202/Tangkapan%20Layar%202026-11-24%20pukul%2001.19.29.png>)
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK9/Unguided/Unguided-2/Screenshot%202026-11-25%20191655.png
 
 #### penjelasan unguided 2
 Menggunakan array dengan head dan tail yang bergerak. Dequeue hanya menggeser head; jika tail mencapai batas array dan masih ada ruang di depan, elemen dipindahkan ke awal sebelum enqueue. Pada program, setelah nilai 5, 2, dan 7 dimasukkan, nilai 5, 2, dan 7 dikeluarkan secara berurutan sehingga nilai 4 tersisa.
@@ -704,8 +704,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Output Unguided 3](<https://github.com/BayusatrioSuryanovicIbrahim/PRAKTIKUM-STRUKTUR-DATA/blob/main/MODUL%208/UNGUIDED/UNGUIDED%203/Tangkapan%20Layar%202026-11-24%20pukul%2001.19.37.png>)
-
+https://github.com/apdalalien-stack/LAPRAK-STRUKDAT/blob/main/WEEK9/Unguided/Unguided-3/Screenshot%202026-11-25%20192003.png
 #### penjelasan unguided 3
 Menggunakan array melingkar berkapasitas lima. Head dan tail bergerak melingkar dengan operasi modulo, sementara queue penuh saat posisi berikutnya dari tail bertemu head. Program memasukkan 5, 2, dan 7, menghapus 5, lalu menambahkan 4; dua penghapusan berikutnya menyisakan 4.
 
